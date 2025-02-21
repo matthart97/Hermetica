@@ -1,0 +1,1301 @@
+[
+    {
+        "original_sentence": "Albert Einstein developed the theory of relativity.",
+        "annotations": [
+            {
+                "entity": "Albert Einstein",
+                "wikidata_id": "Q937",
+                "label": "Albert Einstein",
+                "description": "German-born theoretical physicist (1879\u20131955)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q937",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "relativity",
+                "wikidata_id": "Q983751",
+                "label": "relativity",
+                "description": "quality of a property or measure that is defined in relation to some other entity, as opposed to absoluteness",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q983751",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the theory",
+                "wikidata_id": "Q27877266",
+                "label": "The Theory",
+                "description": "painting by Elliot Collins",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q27877266",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Python is a widely used programming language.",
+        "annotations": [
+            {
+                "entity": "Python",
+                "wikidata_id": "Q28865",
+                "label": "Python",
+                "description": "general-purpose programming language",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q28865",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Eiffel Tower is located in Paris, France.",
+        "annotations": [
+            {
+                "entity": "Paris",
+                "wikidata_id": "Q90",
+                "label": "Paris",
+                "description": "capital city and largest city of France",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q90",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Eiffel Tower",
+                "wikidata_id": "Q19018512",
+                "label": "The Eiffel Tower",
+                "description": "painting by Robert Delaunay in the Staatliche Kunsthalle Karlsruhe",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q19018512",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "France",
+                "wikidata_id": "Q142",
+                "label": "France",
+                "description": "country in Western Europe",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q142",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Tesla was founded by Elon Musk and a team of engineers.",
+        "annotations": [
+            {
+                "entity": "engineers",
+                "wikidata_id": "Q3725354",
+                "label": "Engineers",
+                "description": "English band",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q3725354",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Tesla",
+                "wikidata_id": "Q1428953",
+                "label": "Tesla",
+                "description": "American hard rock band",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q1428953",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Elon Musk",
+                "wikidata_id": "Q317521",
+                "label": "Elon Musk",
+                "description": "South African-Canadian-American businessperson, engineer, inventor, philanthropist and political figure (born 1971)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q317521",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "a team",
+                "wikidata_id": "Q12580711",
+                "label": "A Team",
+                "description": "South Korean record label, talent agency",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q12580711",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Mona Lisa was painted by Leonardo da Vinci.",
+        "annotations": [
+            {
+                "entity": "The Mona Lisa",
+                "wikidata_id": "Q17061568",
+                "label": "The Mona Lisa",
+                "description": "single by Brad Paisley",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q17061568",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Leonardo da Vinci",
+                "wikidata_id": "Q762",
+                "label": "Leonardo da Vinci",
+                "description": "Italian Renaissance polymath (1452\u22121519)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q762",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Amazon rainforest is the largest in the world.",
+        "annotations": [
+            {
+                "entity": "Amazon",
+                "wikidata_id": "Q3884",
+                "label": "Amazon",
+                "description": "American multinational technology company",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q3884",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the world",
+                "wikidata_id": "Q270844",
+                "label": "The World",
+                "description": "artificial archipelago of various small islands",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q270844",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Google was founded in 1998 by Larry Page and Sergey Brin.",
+        "annotations": [
+            {
+                "entity": "Larry Page",
+                "wikidata_id": "Q4934",
+                "label": "Larry Page",
+                "description": "American computer scientist and Internet entrepreneur",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q4934",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Sergey Brin",
+                "wikidata_id": "Q92764",
+                "label": "Sergey Brin",
+                "description": "American billionaire businessman (born 1973)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q92764",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "1998",
+                "wikidata_id": "Q2089",
+                "label": "1998",
+                "description": "year",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2089",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Google",
+                "wikidata_id": "Q95",
+                "label": "Google",
+                "description": "American multinational technology company, a subsidiary of Alphabet Inc.",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q95",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Apple Inc. was co-founded by Steve Jobs, Steve Wozniak, and Ronald Wayne.",
+        "annotations": [
+            {
+                "entity": "Ronald Wayne",
+                "wikidata_id": "Q332591",
+                "label": "Ronald Wayne",
+                "description": "co-founder of Apple Inc.",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q332591",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Steve Jobs",
+                "wikidata_id": "Q19837",
+                "label": "Steve Jobs",
+                "description": "American entrepreneur; co-founder of Apple Inc. (1955\u20132011)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q19837",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Steve Wozniak",
+                "wikidata_id": "Q483382",
+                "label": "Steve Wozniak",
+                "description": "American\u2013Serbian computer pioneer, inventor, computer engineer and programmer; co-founder of Apple Inc.",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q483382",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Great Wall of China is one of the Seven Wonders of the World.",
+        "annotations": [
+            {
+                "entity": "the Seven Wonders",
+                "wikidata_id": "Q15698186",
+                "label": "The Seven Wonders",
+                "description": "episode of American Horror Story (S3 E13)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q15698186",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Great Wall",
+                "wikidata_id": "Q19587336",
+                "label": "The Great Wall",
+                "description": "2016 film by Zhang Yimou",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q19587336",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "China",
+                "wikidata_id": "Q29520",
+                "label": "China",
+                "description": "cultural region, ancient civilization, and nation in East Asia, mostly refer to the People's Republic of China in political situation and rarely refer to the Republic of China",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q29520",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the World",
+                "wikidata_id": "Q270844",
+                "label": "The World",
+                "description": "artificial archipelago of various small islands",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q270844",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The capital of Japan is Tokyo.",
+        "annotations": [
+            {
+                "entity": "Japan",
+                "wikidata_id": "Q17",
+                "label": "Japan",
+                "description": "island country in East Asia",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q17",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The capital",
+                "wikidata_id": "Q3520197",
+                "label": "The Capital",
+                "description": "newspaper in Annapolis, Maryland",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q3520197",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Tokyo",
+                "wikidata_id": "Q1490",
+                "label": "Tokyo",
+                "description": "capital and largest city of Japan",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q1490",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The chemical formula for water is H2O.",
+        "annotations": [
+            {
+                "entity": "The chemical formula",
+                "wikidata_id": "Q60110067",
+                "label": "The Chemical Formulary",
+                "description": "scientific article published in Nature",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q60110067",
+                "relevance_score": 0.952
+            },
+            {
+                "entity": "H2O.",
+                "wikidata_id": "Q20714274",
+                "label": "H2O.ai",
+                "description": "",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q20714274",
+                "relevance_score": 0.8
+            },
+            {
+                "entity": "water",
+                "wikidata_id": "Q283",
+                "label": "water",
+                "description": "chemical compound whose molecules are formed by two hydrogen atoms and one oxygen atom",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q283",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Neil Armstrong was the first person to walk on the Moon.",
+        "annotations": [
+            {
+                "entity": "first",
+                "wikidata_id": "Q37462314",
+                "label": "First",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q37462314",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the first person",
+                "wikidata_id": "Q117189888",
+                "label": "The First Person",
+                "description": "",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q117189888",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Moon",
+                "wikidata_id": "Q16877383",
+                "label": "Moon",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q16877383",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Neil Armstrong",
+                "wikidata_id": "Q1615",
+                "label": "Neil Armstrong",
+                "description": "American astronaut and lunar explorer (1930\u20132012)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q1615",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the Moon",
+                "wikidata_id": "Q2502695",
+                "label": "The Moon",
+                "description": "card in Tarot decks",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2502695",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Shakespeare wrote the play Romeo and Juliet.",
+        "annotations": [
+            {
+                "entity": "Shakespeare",
+                "wikidata_id": "Q20997880",
+                "label": "Shakespeare",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q20997880",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Juliet",
+                "wikidata_id": "Q20000410",
+                "label": "Juliet",
+                "description": "female given name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q20000410",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the play",
+                "wikidata_id": "Q30904972",
+                "label": "The Play",
+                "description": "episode of Zoey 101",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q30904972",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Romeo",
+                "wikidata_id": "Q1069139",
+                "label": "Romeo",
+                "description": "male given name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q1069139",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Mount Everest is the highest mountain on Earth.",
+        "annotations": [
+            {
+                "entity": "Mount Everest",
+                "wikidata_id": "Q513",
+                "label": "Mount Everest",
+                "description": "Earth's highest mountain above sea level, located in the Mahalangur Himal sub-range of the Himalayas",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q513",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Earth",
+                "wikidata_id": "Q2",
+                "label": "Earth",
+                "description": "third planet from the Sun in the Solar System",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the highest mountain",
+                "wikidata_id": "Q17010010",
+                "label": "The Highest Mountain",
+                "description": "album by Clifford Jordan",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q17010010",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The periodic table was created by Dmitri Mendeleev.",
+        "annotations": [
+            {
+                "entity": "The periodic table",
+                "wikidata_id": "Q2249636",
+                "label": "The Periodic Table",
+                "description": "short story collection by Primo Levi",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2249636",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Dmitri Mendeleev",
+                "wikidata_id": "Q9106",
+                "label": "Dmitri Mendeleev",
+                "description": "Russian chemist (1834\u20131907)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q9106",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Barack Obama was the 44th president of the United States.",
+        "annotations": [
+            {
+                "entity": "Barack Obama",
+                "wikidata_id": "Q76",
+                "label": "Barack Obama",
+                "description": "president of the United States from 2009 to 2017",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q76",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the United States",
+                "wikidata_id": "Q30",
+                "label": "United States",
+                "description": "country primarily located in North America",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q30",
+                "relevance_score": 0.867
+            }
+        ]
+    },
+    {
+        "original_sentence": "Facebook was originally called The Facebook.",
+        "annotations": [
+            {
+                "entity": "Facebook",
+                "wikidata_id": "Q355",
+                "label": "Facebook",
+                "description": "American online social media and social networking service",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q355",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Facebook",
+                "wikidata_id": "Q10767727",
+                "label": "The Facebook Effect",
+                "description": "book by David Kirkpatrick",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q10767727",
+                "relevance_score": 0.774
+            }
+        ]
+    },
+    {
+        "original_sentence": "Nikola Tesla was a pioneer in electricity and magnetism.",
+        "annotations": [
+            {
+                "entity": "electricity",
+                "wikidata_id": "Q12725",
+                "label": "electricity",
+                "description": "physical phenomena associated with the presence and flow of electric charge",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q12725",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "magnetism",
+                "wikidata_id": "Q3294789",
+                "label": "magnetism",
+                "description": "class of physical phenomena",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q3294789",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "a pioneer",
+                "wikidata_id": "Q20505873",
+                "label": "A Pioneer Woman",
+                "description": "painting by Unidentified",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q20505873",
+                "relevance_score": 0.75
+            },
+            {
+                "entity": "Nikola Tesla",
+                "wikidata_id": "Q9036",
+                "label": "Nikola Tesla",
+                "description": "Serbian-American inventor (1856\u20131943)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q9036",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The United Nations was founded in 1945.",
+        "annotations": [
+            {
+                "entity": "The United Nations",
+                "wikidata_id": "Q172416",
+                "label": "history of the United Nations",
+                "description": "aspect of history",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q172416",
+                "relevance_score": 0.766
+            },
+            {
+                "entity": "1945",
+                "wikidata_id": "Q5240",
+                "label": "1945",
+                "description": "year",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q5240",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Wright brothers invented the first successful airplane.",
+        "annotations": [
+            {
+                "entity": "first",
+                "wikidata_id": "Q37462314",
+                "label": "First",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q37462314",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Wright",
+                "wikidata_id": "Q2594455",
+                "label": "Wright",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2594455",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Wright brothers",
+                "wikidata_id": "Q26964815",
+                "label": "The Wright Brothers",
+                "description": "book by David McCullough",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q26964815",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Coca-Cola was created in 1886 by John Pemberton.",
+        "annotations": [
+            {
+                "entity": "Coca-Cola",
+                "wikidata_id": "Q2813",
+                "label": "Coca-Cola",
+                "description": "carbonated brown-colored soft drink",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2813",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "John Pemberton",
+                "wikidata_id": "Q215959",
+                "label": "John Pemberton",
+                "description": "American pharmacist, inventor of Coca-Cola",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q215959",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "1886",
+                "wikidata_id": "Q7822",
+                "label": "1886",
+                "description": "year",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q7822",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The speed of light in a vacuum is approximately 299,792 kilometers per second.",
+        "annotations": [
+            {
+                "entity": "The speed",
+                "wikidata_id": "Q13058298",
+                "label": "The Speed",
+                "description": "film",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q13058298",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "second",
+                "wikidata_id": "Q11574",
+                "label": "second",
+                "description": "SI unit of time, defined as 9\u2009192\u2009631\u2009770 periods of the ground-state hyperfine transitions of caesium-133",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q11574",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "light",
+                "wikidata_id": "Q3186357",
+                "label": "Light",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q3186357",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Nobel Prize was established by Alfred Nobel.",
+        "annotations": [
+            {
+                "entity": "Alfred Nobel",
+                "wikidata_id": "Q23810",
+                "label": "Alfred Nobel",
+                "description": "Swedish chemist and inventor (1833\u20131896)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q23810",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Nobel Prize",
+                "wikidata_id": "Q84948418",
+                "label": "The Nobel Prize",
+                "description": "scientific article published on 01 October 1963",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q84948418",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Marie Curie was the first woman to win a Nobel Prize.",
+        "annotations": [
+            {
+                "entity": "first",
+                "wikidata_id": "Q37462314",
+                "label": "First",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q37462314",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Marie Curie",
+                "wikidata_id": "Q7186",
+                "label": "Marie Curie",
+                "description": "Polish and French physicist and chemist (1867\u20131934)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q7186",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the first woman",
+                "wikidata_id": "Q66312072",
+                "label": "The First Woman",
+                "description": "1922 film directed by Glen Lyons",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q66312072",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Winston Churchill was the Prime Minister of the United Kingdom during World War II.",
+        "annotations": [
+            {
+                "entity": "the Prime Minister",
+                "wikidata_id": "Q7758216",
+                "label": "The Prime Minister",
+                "description": "book by Anthony Trollope",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q7758216",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the United Kingdom",
+                "wikidata_id": "Q145",
+                "label": "United Kingdom",
+                "description": "country in north-west Europe",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q145",
+                "relevance_score": 0.875
+            },
+            {
+                "entity": "World War II",
+                "wikidata_id": "Q362",
+                "label": "World War II",
+                "description": "1939\u20131945 global conflict",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q362",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Winston Churchill",
+                "wikidata_id": "Q8016",
+                "label": "Winston Churchill",
+                "description": "British statesman, soldier and writer (1874\u20131965)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q8016",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Sahara is the largest hot desert in the world.",
+        "annotations": [
+            {
+                "entity": "The Sahara",
+                "wikidata_id": "Q106394792",
+                "label": "The Sahara",
+                "description": "book by Pierre Loti",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q106394792",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the world",
+                "wikidata_id": "Q270844",
+                "label": "The World",
+                "description": "artificial archipelago of various small islands",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q270844",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Sahara",
+                "wikidata_id": "Q20001018",
+                "label": "Sahara",
+                "description": "female given name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q20001018",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Vincent van Gogh painted Starry Night.",
+        "annotations": [
+            {
+                "entity": "Vincent van Gogh",
+                "wikidata_id": "Q5582",
+                "label": "Vincent van Gogh",
+                "description": "Dutch painter (1853\u20131890)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q5582",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Starry Night",
+                "wikidata_id": "Q18209775",
+                "label": "Starry Night",
+                "description": "painting by Edvard Munch (1893 - 1)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q18209775",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The human brain has approximately 86 billion neurons.",
+        "annotations": [
+            {
+                "entity": "The human brain",
+                "wikidata_id": "Q28756475",
+                "label": "The Human Brain",
+                "description": "scientific article (publication date:  1989)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q28756475",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Pluto was reclassified as a dwarf planet in 2006.",
+        "annotations": [
+            {
+                "entity": "2006",
+                "wikidata_id": "Q2021",
+                "label": "2006",
+                "description": "year",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2021",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Pluto",
+                "wikidata_id": "Q108732",
+                "label": "Pluto",
+                "description": "animated dog in various Disney productions",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q108732",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Colosseum is located in Rome, Italy.",
+        "annotations": [
+            {
+                "entity": "Italy",
+                "wikidata_id": "Q38",
+                "label": "Italy",
+                "description": "country in Southern Europe",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q38",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Colosseum",
+                "wikidata_id": "Q41255148",
+                "label": "The Colosseum",
+                "description": "painting by Giovanni Antonio Canal",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q41255148",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Rome",
+                "wikidata_id": "Q220",
+                "label": "Rome",
+                "description": "capital and largest city of Italy",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q220",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Colosseum",
+                "wikidata_id": "Q10285",
+                "label": "Colosseum",
+                "description": "ancient Roman amphitheatre, a landmark of Rome, Italy",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q10285",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Golden Gate Bridge is an iconic landmark in San Francisco.",
+        "annotations": [
+            {
+                "entity": "San Francisco",
+                "wikidata_id": "Q62",
+                "label": "San Francisco",
+                "description": "consolidated city and county in California, United States",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q62",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Golden Gate Bridge",
+                "wikidata_id": "Q114501356",
+                "label": "The Golden Gate Bridge",
+                "description": "episode of Modern Marvels (S2 E7)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q114501356",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Pyramids of Giza were built by the ancient Egyptians.",
+        "annotations": [
+            {
+                "entity": "Egyptians",
+                "wikidata_id": "Q406382",
+                "label": "Egyptians Party",
+                "description": "political party",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q406382",
+                "relevance_score": 0.75
+            },
+            {
+                "entity": "Giza",
+                "wikidata_id": "Q36982820",
+                "label": "Giza",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q36982820",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Pyramids",
+                "wikidata_id": "Q1476016",
+                "label": "The Pyramids",
+                "description": "American surf band",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q1476016",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Isaac Newton formulated the laws of motion and universal gravitation.",
+        "annotations": [
+            {
+                "entity": "the laws",
+                "wikidata_id": "Q114476544",
+                "label": "The Laws",
+                "description": "episode of Sister, Sister (S5 E13)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q114476544",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "universal gravitation",
+                "wikidata_id": "Q123304040",
+                "label": "Universal Gravitation",
+                "description": "1960 film by Jack Churchill",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q123304040",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Isaac Newton",
+                "wikidata_id": "Q935",
+                "label": "Isaac Newton",
+                "description": "English mathematician and physicist (1642\u20131727)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q935",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "motion",
+                "wikidata_id": "Q452237",
+                "label": "motion",
+                "description": "formal proposal made in a deliberative assembly under parliamentary procedure",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q452237",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Bitcoin was invented by an unknown person or group using the name Satoshi Nakamoto.",
+        "annotations": [
+            {
+                "entity": "Satoshi Nakamoto",
+                "wikidata_id": "Q13382352",
+                "label": "Satoshi Nakamoto",
+                "description": "person or pseudonym for the person or group who designed and developed Bitcoin",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q13382352",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "group",
+                "wikidata_id": "Q824979",
+                "label": "group",
+                "description": "in geology, a stratigraphic unit, smaller than a supergroup and larger than a subgroup",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q824979",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the name",
+                "wikidata_id": "Q114541804",
+                "label": "The Name",
+                "description": "episode of The Amazing World of Gumball (S3 E7)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q114541804",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Bitcoin",
+                "wikidata_id": "Q131723",
+                "label": "bitcoin",
+                "description": "digital cash system and associated currency",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q131723",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The speed of sound varies depending on the medium.",
+        "annotations": [
+            {
+                "entity": "sound",
+                "wikidata_id": "Q491713",
+                "label": "sound",
+                "description": "long, relatively wide body of water, connecting two larger parts of the sea",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q491713",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the medium",
+                "wikidata_id": "Q93645738",
+                "label": "The Medium",
+                "description": "2021 psychological horror video game developed by Blooper Team",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q93645738",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The speed",
+                "wikidata_id": "Q13058298",
+                "label": "The Speed",
+                "description": "film",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q13058298",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Statue of Liberty was a gift from France to the United States.",
+        "annotations": [
+            {
+                "entity": "The Statue",
+                "wikidata_id": "Q7766416",
+                "label": "The Statue",
+                "description": "episode of Seinfeld (S2 E6)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q7766416",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "France",
+                "wikidata_id": "Q142",
+                "label": "France",
+                "description": "country in Western Europe",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q142",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the United States",
+                "wikidata_id": "Q30",
+                "label": "United States",
+                "description": "country primarily located in North America",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q30",
+                "relevance_score": 0.867
+            },
+            {
+                "entity": "a gift",
+                "wikidata_id": "Q4656994",
+                "label": "A Gift",
+                "description": "album by Paul Brandt",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q4656994",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Liberty",
+                "wikidata_id": "Q37207109",
+                "label": "Liberty",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q37207109",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Amazon was originally an online bookstore.",
+        "annotations": [
+            {
+                "entity": "Amazon",
+                "wikidata_id": "Q3884",
+                "label": "Amazon",
+                "description": "American multinational technology company",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q3884",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Hubble Space Telescope was launched in 1990.",
+        "annotations": [
+            {
+                "entity": "1990",
+                "wikidata_id": "Q2064",
+                "label": "1990",
+                "description": "year",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2064",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Hubble Space Telescope",
+                "wikidata_id": "Q67421026",
+                "label": "The Hubble Space Telescope (NAID 101938909)",
+                "description": "item in the National Archives and Records Administration's holdings",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q67421026",
+                "relevance_score": 0.754
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Louvre Museum is the world's most-visited museum.",
+        "annotations": [
+            {
+                "entity": "The Louvre Museum",
+                "wikidata_id": "Q19675",
+                "label": "Louvre Museum",
+                "description": "art and archeology museum in Paris, France",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q19675",
+                "relevance_score": 0.867
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Taj Mahal was built by Mughal Emperor Shah Jahan.",
+        "annotations": [
+            {
+                "entity": "Mughal Emperor Shah Jahan",
+                "wikidata_id": "Q83557625",
+                "label": "Mughal Emperor Shah Jahan",
+                "description": "painting by Abanindranath Tagore",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q83557625",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Taj Mahal",
+                "wikidata_id": "Q100323046",
+                "label": "The Taj Mahal",
+                "description": "painting collection of National Gallery of Modern Art, Bangalore",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q100323046",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Einstein's equation E=mc\u00b2 describes the relationship between energy and mass.",
+        "annotations": [
+            {
+                "entity": "E=mc\u00b2",
+                "wikidata_id": "Q827957",
+                "label": "E=MC\u00b2",
+                "description": "2008 studio album by Mariah Carey",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q827957",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "mass",
+                "wikidata_id": "Q16876520",
+                "label": "Mass",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q16876520",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the relationship",
+                "wikidata_id": "Q7760103",
+                "label": "The Relationship",
+                "description": "American band",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q7760103",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "energy",
+                "wikidata_id": "Q11379",
+                "label": "energy",
+                "description": "quantitative property of a physical system, recognizable in the performance of work and in the form of heat and light",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q11379",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Einstein",
+                "wikidata_id": "Q16834800",
+                "label": "Einstein",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q16834800",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Atlantic Ocean is the second-largest ocean on Earth.",
+        "annotations": [
+            {
+                "entity": "Earth",
+                "wikidata_id": "Q2",
+                "label": "Earth",
+                "description": "third planet from the Sun in the Solar System",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q2",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "second",
+                "wikidata_id": "Q11574",
+                "label": "second",
+                "description": "SI unit of time, defined as 9\u2009192\u2009631\u2009770 periods of the ground-state hyperfine transitions of caesium-133",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q11574",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Atlantic Ocean",
+                "wikidata_id": "Q114590491",
+                "label": "The Atlantic Ocean",
+                "description": "scientific article published in 1911",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q114590491",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Julius Caesar was assassinated on the Ides of March in 44 BC.",
+        "annotations": [
+            {
+                "entity": "Julius Caesar",
+                "wikidata_id": "Q1048",
+                "label": "Julius Caesar",
+                "description": "Roman general and dictator (100 \u2013 44 BC)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q1048",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "44 BC",
+                "wikidata_id": "Q35261",
+                "label": "44 BC",
+                "description": "year",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q35261",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "March",
+                "wikidata_id": "Q21492582",
+                "label": "March",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q21492582",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Great Barrier Reef is the world's largest coral reef system.",
+        "annotations": [
+            {
+                "entity": "The Great Barrier Reef",
+                "wikidata_id": "Q126078220",
+                "label": "The Great Barrier Reef",
+                "description": "episode of Peppa Pig (S5 E21)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q126078220",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Walt Disney created Mickey Mouse.",
+        "annotations": [
+            {
+                "entity": "Walt Disney",
+                "wikidata_id": "Q8704",
+                "label": "Walt Disney",
+                "description": "American animator and producer (1901\u20131966)",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q8704",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "Mickey Mouse",
+                "wikidata_id": "Q11934",
+                "label": "Mickey Mouse",
+                "description": "American cartoon character and mascot of The Walt Disney Company",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q11934",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Internet was developed from ARPANET.",
+        "annotations": [
+            {
+                "entity": "ARPANET",
+                "wikidata_id": "Q177524",
+                "label": "ARPANET",
+                "description": "early packet switching network",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q177524",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "The Internet",
+                "wikidata_id": "Q6349289",
+                "label": "The Internet",
+                "description": "American R&B and soul band",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q6349289",
+                "relevance_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "The Milky Way is the galaxy that contains our solar",
+        "annotations": [
+            {
+                "entity": "The Milky Way",
+                "wikidata_id": "Q1214845",
+                "label": "The Milky Way",
+                "description": "1969 film by Luis Bu\u00f1uel",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q1214845",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "our solar",
+                "wikidata_id": "Q7111175",
+                "label": "Our Solar System",
+                "description": "album by Half Japanese",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q7111175",
+                "relevance_score": 0.72
+            },
+            {
+                "entity": "that",
+                "wikidata_id": "Q126895399",
+                "label": "That",
+                "description": "family name",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q126895399",
+                "relevance_score": 1.0
+            },
+            {
+                "entity": "the galaxy",
+                "wikidata_id": "Q20469652",
+                "label": "The galaxy",
+                "description": "painting by Sidney Nolan",
+                "wikidata_url": "https://www.wikidata.org/wiki/Q20469652",
+                "relevance_score": 1.0
+            }
+        ]
+    }
+]

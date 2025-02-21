@@ -1,0 +1,663 @@
+[
+    {
+        "original_sentence": "Water is essential for life and has a molecular formula of H2O.",
+        "annotations": [
+            {
+                "entity": "H2O.",
+                "chebi_id": "CHEBI:15377",
+                "label": "h2o",
+                "description": "",
+                "similarity_score": 0.857
+            },
+            {
+                "entity": "life",
+                "chebi_id": "CHEBI:51468",
+                "label": "liet",
+                "description": "",
+                "similarity_score": 0.75
+            },
+            {
+                "entity": "Water",
+                "chebi_id": "CHEBI:15377",
+                "label": "water",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Glucose is a primary energy source in cellular metabolism.",
+        "annotations": [
+            {
+                "entity": "Glucose",
+                "chebi_id": "CHEBI:17234",
+                "label": "glucose",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Ethanol is commonly found in alcoholic beverages.",
+        "annotations": [
+            {
+                "entity": "Ethanol",
+                "chebi_id": "CHEBI:16236",
+                "label": "ethanol",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Aspirin is used as a pain reliever and has acetylsalicylic acid as its active ingredient.",
+        "annotations": [
+            {
+                "entity": "Aspirin",
+                "chebi_id": "CHEBI:15365",
+                "label": "aspirin",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "acetylsalicylic acid",
+                "chebi_id": "CHEBI:15365",
+                "label": "acetylsalicylic acid",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Dopamine is a neurotransmitter that plays a role in pleasure and motivation.",
+        "annotations": [
+            {
+                "entity": "pleasure",
+                "chebi_id": "CHEBI:209544",
+                "label": "pleurone",
+                "description": "",
+                "similarity_score": 0.75
+            },
+            {
+                "entity": "that",
+                "chebi_id": "CHEBI:76023",
+                "label": "tht",
+                "description": "",
+                "similarity_score": 0.857
+            },
+            {
+                "entity": "a role",
+                "chebi_id": "CHEBI:37177",
+                "label": "arsole",
+                "description": "",
+                "similarity_score": 0.833
+            },
+            {
+                "entity": "a neurotransmitter",
+                "chebi_id": "CHEBI:25512",
+                "label": "neurotransmitter",
+                "description": "",
+                "similarity_score": 0.941
+            },
+            {
+                "entity": "Dopamine",
+                "chebi_id": "CHEBI:18243",
+                "label": "dopamine",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "motivation",
+                "chebi_id": "CHEBI:34837",
+                "label": "methidathion",
+                "description": "",
+                "similarity_score": 0.727
+            }
+        ]
+    },
+    {
+        "original_sentence": "Caffeine is a stimulant found in coffee and tea.",
+        "annotations": [
+            {
+                "entity": "tea",
+                "chebi_id": "CHEBI:35026",
+                "label": "tea",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "coffee",
+                "chebi_id": "CHEBI:27732",
+                "label": "coffein",
+                "description": "",
+                "similarity_score": 0.769
+            },
+            {
+                "entity": "Caffeine",
+                "chebi_id": "CHEBI:27732",
+                "label": "caffeine",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "a stimulant",
+                "chebi_id": "CHEBI:35337",
+                "label": "cns stimulant",
+                "description": "",
+                "similarity_score": 0.833
+            }
+        ]
+    },
+    {
+        "original_sentence": "Sodium chloride is the chemical name for table salt.",
+        "annotations": [
+            {
+                "entity": "Sodium chloride",
+                "chebi_id": "CHEBI:26710",
+                "label": "sodium chloride",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "table salt",
+                "chebi_id": "CHEBI:26710",
+                "label": "table salt",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Methane is the simplest hydrocarbon and a major component of natural gas.",
+        "annotations": [
+            {
+                "entity": "Methane",
+                "chebi_id": "CHEBI:16183",
+                "label": "methane",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "a major component",
+                "chebi_id": "CHEBI:78295",
+                "label": "food component",
+                "description": "",
+                "similarity_score": 0.71
+            },
+            {
+                "entity": "natural gas",
+                "chebi_id": "CHEBI:132140",
+                "label": "natural gas hydrate",
+                "description": "",
+                "similarity_score": 0.733
+            }
+        ]
+    },
+    {
+        "original_sentence": "Hemoglobin is a protein that carries oxygen in the blood.",
+        "annotations": [
+            {
+                "entity": "a protein",
+                "chebi_id": "CHEBI:16541",
+                "label": "a protein",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "Hemoglobin",
+                "chebi_id": "CHEBI:35143",
+                "label": "hemoglobin",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "that",
+                "chebi_id": "CHEBI:76023",
+                "label": "tht",
+                "description": "",
+                "similarity_score": 0.857
+            },
+            {
+                "entity": "oxygen",
+                "chebi_id": "CHEBI:25805",
+                "label": "oxygen",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Lactic acid is produced during intense exercise.",
+        "annotations": [
+            {
+                "entity": "Lactic acid",
+                "chebi_id": "CHEBI:28358",
+                "label": "lactic acid",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Vitamin C, also known as ascorbic acid, is important for immune function.",
+        "annotations": [
+            {
+                "entity": "Vitamin C",
+                "chebi_id": "CHEBI:29073",
+                "label": "vitamin c",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "ascorbic acid",
+                "chebi_id": "CHEBI:29073",
+                "label": "ascorbic acid",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "immune function",
+                "chebi_id": "CHEBI:50846",
+                "label": "immune factor",
+                "description": "",
+                "similarity_score": 0.786
+            }
+        ]
+    },
+    {
+        "original_sentence": "Serotonin is a neurotransmitter associated with mood regulation.",
+        "annotations": [
+            {
+                "entity": "Serotonin",
+                "chebi_id": "CHEBI:28790",
+                "label": "serotonin",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "a neurotransmitter",
+                "chebi_id": "CHEBI:25512",
+                "label": "neurotransmitter",
+                "description": "",
+                "similarity_score": 0.941
+            }
+        ]
+    },
+    {
+        "original_sentence": "Cholesterol is a lipid that is crucial for cell membrane function.",
+        "annotations": [
+            {
+                "entity": "that",
+                "chebi_id": "CHEBI:76023",
+                "label": "tht",
+                "description": "",
+                "similarity_score": 0.857
+            },
+            {
+                "entity": "Cholesterol",
+                "chebi_id": "CHEBI:16113",
+                "label": "cholesterol",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "a lipid",
+                "chebi_id": "CHEBI:193141",
+                "label": "a lipid a",
+                "description": "",
+                "similarity_score": 0.875
+            }
+        ]
+    },
+    {
+        "original_sentence": "Carbon dioxide is a greenhouse gas that contributes to global warming.",
+        "annotations": [
+            {
+                "entity": "that",
+                "chebi_id": "CHEBI:76023",
+                "label": "tht",
+                "description": "",
+                "similarity_score": 0.857
+            },
+            {
+                "entity": "Carbon dioxide",
+                "chebi_id": "CHEBI:16526",
+                "label": "carbon dioxide",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "a greenhouse gas",
+                "chebi_id": "CHEBI:76413",
+                "label": "greenhouse gas",
+                "description": "",
+                "similarity_score": 0.933
+            }
+        ]
+    },
+    {
+        "original_sentence": "Penicillin was the first widely used antibiotic.",
+        "annotations": [
+            {
+                "entity": "Penicillin",
+                "chebi_id": "CHEBI:17334",
+                "label": "penicillin",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "first",
+                "chebi_id": "CHEBI:144556",
+                "label": "frt",
+                "description": "",
+                "similarity_score": 0.75
+            }
+        ]
+    },
+    {
+        "original_sentence": "ATP, or adenosine triphosphate, is the energy currency of the cell.",
+        "annotations": [
+            {
+                "entity": "adenosine triphosphate",
+                "chebi_id": "CHEBI:15422",
+                "label": "adenosine triphosphate",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "ATP",
+                "chebi_id": "CHEBI:15422",
+                "label": "atp",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Ibuprofen is a nonsteroidal anti-inflammatory drug used to reduce pain and fever.",
+        "annotations": [
+            {
+                "entity": "a nonsteroidal anti-inflammatory drug",
+                "chebi_id": "CHEBI:35475",
+                "label": "non-steroidal anti-inflammatory drug",
+                "description": "",
+                "similarity_score": 0.959
+            },
+            {
+                "entity": "pain",
+                "chebi_id": "CHEBI:53571",
+                "label": "pan",
+                "description": "",
+                "similarity_score": 0.857
+            },
+            {
+                "entity": "Ibuprofen",
+                "chebi_id": "CHEBI:43415",
+                "label": "ibuprofen",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "fever",
+                "chebi_id": "CHEBI:18248",
+                "label": "fer",
+                "description": "",
+                "similarity_score": 0.75
+            }
+        ]
+    },
+    {
+        "original_sentence": "Hydrochloric acid is found in stomach acid and aids digestion.",
+        "annotations": [
+            {
+                "entity": "Hydrochloric acid",
+                "chebi_id": "CHEBI:17883",
+                "label": "hydrochloric acid",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Glycine is the simplest amino acid.",
+        "annotations": [
+            {
+                "entity": "the simplest amino acid",
+                "chebi_id": "CHEBI:24485",
+                "label": "heme-amino acid",
+                "description": "",
+                "similarity_score": 0.737
+            },
+            {
+                "entity": "Glycine",
+                "chebi_id": "CHEBI:57305",
+                "label": "glycine",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Glutamate is the most abundant excitatory neurotransmitter in the brain.",
+        "annotations": [
+            {
+                "entity": "the brain",
+                "chebi_id": "CHEBI:9519",
+                "label": "thebaine",
+                "description": "",
+                "similarity_score": 0.824
+            },
+            {
+                "entity": "Glutamate",
+                "chebi_id": "CHEBI:16015",
+                "label": "glutamate",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Benzene is an aromatic hydrocarbon used in the chemical industry.",
+        "annotations": [
+            {
+                "entity": "Benzene",
+                "chebi_id": "CHEBI:16716",
+                "label": "benzene",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "an aromatic hydrocarbon",
+                "chebi_id": "CHEBI:33658",
+                "label": "aromatic hydrocarbons",
+                "description": "",
+                "similarity_score": 0.909
+            }
+        ]
+    },
+    {
+        "original_sentence": "Citric acid is commonly found in citrus fruits.",
+        "annotations": [
+            {
+                "entity": "Citric acid",
+                "chebi_id": "CHEBI:30769",
+                "label": "citric acid",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "Citric",
+                "chebi_id": "CHEBI:175167",
+                "label": "citrusin c",
+                "description": "",
+                "similarity_score": 0.75
+            }
+        ]
+    },
+    {
+        "original_sentence": "Urea is the main component of urine.",
+        "annotations": [
+            {
+                "entity": "the main component",
+                "chebi_id": "CHEBI:27311",
+                "label": "ethereal oil component",
+                "description": "",
+                "similarity_score": 0.75
+            },
+            {
+                "entity": "urine",
+                "chebi_id": "CHEBI:35584",
+                "label": "purine",
+                "description": "",
+                "similarity_score": 0.909
+            },
+            {
+                "entity": "Urea",
+                "chebi_id": "CHEBI:16199",
+                "label": "urea",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Acetone is commonly used as a solvent in nail polish removers.",
+        "annotations": [
+            {
+                "entity": "Acetone",
+                "chebi_id": "CHEBI:15347",
+                "label": "acetone",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "polish",
+                "chebi_id": "CHEBI:65347",
+                "label": "kyprolis",
+                "description": "",
+                "similarity_score": 0.714
+            },
+            {
+                "entity": "a solvent",
+                "chebi_id": "CHEBI:48359",
+                "label": "hba solvent",
+                "description": "",
+                "similarity_score": 0.9
+            }
+        ]
+    },
+    {
+        "original_sentence": "Ammonia is used in fertilizers and household cleaning products.",
+        "annotations": [
+            {
+                "entity": "fertilizers",
+                "chebi_id": "CHEBI:33287",
+                "label": "fertilizers",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "Ammonia",
+                "chebi_id": "CHEBI:16134",
+                "label": "ammonia",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Sucrose is commonly known as table sugar.",
+        "annotations": [
+            {
+                "entity": "Sucrose",
+                "chebi_id": "CHEBI:17992",
+                "label": "sucrose",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "table sugar",
+                "chebi_id": "CHEBI:17992",
+                "label": "table sugar",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Formaldehyde is used in the preservation of biological specimens.",
+        "annotations": [
+            {
+                "entity": "Formaldehyde",
+                "chebi_id": "CHEBI:16842",
+                "label": "formaldehyde",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "biological specimens",
+                "chebi_id": "CHEBI:26130",
+                "label": "biological pigment",
+                "description": "",
+                "similarity_score": 0.842
+            }
+        ]
+    },
+    {
+        "original_sentence": "Histamine plays a role in immune responses and allergic reactions.",
+        "annotations": [
+            {
+                "entity": "a role",
+                "chebi_id": "CHEBI:37177",
+                "label": "arsole",
+                "description": "",
+                "similarity_score": 0.833
+            },
+            {
+                "entity": "Histamine",
+                "chebi_id": "CHEBI:18295",
+                "label": "histamine",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "allergic reactions",
+                "chebi_id": "CHEBI:88186",
+                "label": "allergenic metal cations",
+                "description": "",
+                "similarity_score": 0.81
+            }
+        ]
+    },
+    {
+        "original_sentence": "Adrenaline, also known as epinephrine, is released during the fight-or-flight response.",
+        "annotations": [
+            {
+                "entity": "epinephrine",
+                "chebi_id": "CHEBI:28918",
+                "label": "epinephrine",
+                "description": "",
+                "similarity_score": 1.0
+            },
+            {
+                "entity": "Adrenaline",
+                "chebi_id": "CHEBI:28918",
+                "label": "adrenaline",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    },
+    {
+        "original_sentence": "Sulfuric acid is used in car batteries and industrial processes.",
+        "annotations": [
+            {
+                "entity": "Sulfuric acid",
+                "chebi_id": "CHEBI:26836",
+                "label": "sulfuric acid",
+                "description": "",
+                "similarity_score": 1.0
+            }
+        ]
+    }
+]
