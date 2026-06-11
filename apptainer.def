@@ -1,0 +1,48 @@
+BootStrap: docker
+From: continuumio/miniconda3  # Base image with Conda pre-installed
+
+%post
+    # Copy the environment file
+    cp Hermenvironment.yml /tmp/Hermenvironment.yml
+
+    # Create the Conda environment
+    conda env create -f /tmp/Hermenvironment.yml
+
+    # Activate environment and ensure it works
+    echo "source activate my_env" >> ~/.bashrc
+    source ~/.bashrc
+
+    # Update and install dependencies
+    apt update && apt install -y curl git wget ca-certificates
+
+    # Install Ollama
+    curl -fsSL https://ollama.com/install.sh | sh
+
+    # Start Ollama service (needed for container runtime)
+    mkdir -p /var/run/ollama
+    chmod 777 /var/run/ollama  # Ensure the user has permissions
+
+    # Verify installation
+    ollama version || echo "Ollama installation failed!"
+
+
+%files
+    . /Hermetica
+
+%environment
+    export PATH="/opt/conda/envs/my_env/bin:$PATH"
+    export CONDA_DEFAULT_ENV=my_env
+    source activate my_env
+    export PATH=/root/.ollama/bin:$PATH
+    export OLLAMA_HOST=127.0.0.1:11434  
+
+%runscript
+    # Ensure Ollama daemon is running before running the main script
+    ollama serve --detach
+    sleep 2  # Give it some time to start
+
+    exec python3 /code/main.py
+    exec python /code/main.py  
+
+%test
+    python -c "import sys; print('Python environment works:', sys.executable)"
